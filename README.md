@@ -14,4 +14,4 @@ source: https://github.com/Semantic-Org/Semantic-UI/issues/6641
 4. Follow the suggested options when installing Semantic UI
 5. Change directory to the installed semantic folder and Run Gulp build
 
-When opening the index.html file you can see the form example
+When opening the index.html file in your browser you can see the form example
